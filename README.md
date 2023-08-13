@@ -1,11 +1,9 @@
 # Ideas to implement in the project
 
-1. change localisation
+1. Change localisation [x]
     - ja/nein $\rightarrow$ yes/no
     - manuell $\rightarrow$ manual
     - etc
-2. mess around with language
-3. take a damn look pls
-4. maybe slice names?
-5. prioritise some columns idk
-6. man this sucks
+2. Update carDat with English variant [x]
+3. Store 2 variants of carDat [x]
+4. Modularise used DataFrame within models []
